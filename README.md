@@ -1,86 +1,110 @@
-# Hi there, I'm Amir Vaez 👋
+# Hi 👋 I'm Amir Vaez
 
-## Backend Developer \| Software Architecture Enthusiast
+<h3 align="center">
+Backend Developer | .NET Enthusiast | Software Architecture Lover
+</h3>
 
-I am a backend developer passionate about building scalable,
-maintainable, and well-structured software systems.
+<p align="center">
+Building scalable backend systems with clean code, solid architecture and modern engineering practices.
+</p>
 
-My main focus is designing clean architectures, developing robust APIs,
-and exploring modern backend technologies.
+<p align="center">
+  <a href="https://github.com/irancss">
+    <img src="https://img.shields.io/github/followers/irancss?label=Follow&style=for-the-badge" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=irancss&style=for-the-badge" />
+</p>
 
-------------------------------------------------------------------------
+---
 
 ## 🚀 About Me
 
--   💻 Backend Developer
--   🏗️ Interested in Clean Architecture, Domain-Driven Design (DDD), and
-    Software Design Patterns
--   🔧 Building scalable applications with modern engineering practices
--   📚 Always learning and improving software architecture skills
+- 💻 Backend Developer focused on **C# and .NET ecosystem**
+- 🏗️ Interested in **Clean Architecture, Domain Driven Design and Software Engineering**
+- 🔥 Building maintainable and scalable applications
+- 📚 Exploring distributed systems and microservice architecture
+- ⚡ Passionate about writing clean, testable and professional code
 
-------------------------------------------------------------------------
+---
 
 ## 🛠️ Tech Stack
 
 ### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=cs,dotnet" />
+</p>
 
--   C#
--   .NET / ASP.NET Core
--   RESTful APIs
--   Entity Framework Core
+### Architecture & Engineering
 
-### Architecture & Design
-
--   Clean Architecture
--   Domain-Driven Design (DDD)
--   SOLID Principles
--   Design Patterns
--   Microservices Architecture
+```
+Clean Architecture
+Domain Driven Design (DDD)
+SOLID Principles
+Design Patterns
+Microservices Architecture
+RESTful API Design
+```
 
 ### Database & Infrastructure
 
--   SQL Server
--   Redis
--   RabbitMQ
--   Docker
--   CI/CD
+<p>
+<img src="https://skillicons.dev/icons?i=sqlserver,redis,rabbitmq,docker,git,github" />
+</p>
 
-------------------------------------------------------------------------
+---
 
 ## 📌 Featured Projects
 
 ### 🚗 CarentBack
+Backend application designed with modern backend principles.
 
-A backend project focused on building a structured and scalable
-application using modern backend practices.
+**Focus:**
+- Clean architecture
+- Maintainable code structure
+- Scalable backend design
+
+---
 
 ### 🏗️ Clean Architecture Projects
 
-Examples and experiments around: - Separation of concerns - Dependency
-inversion - Maintainable enterprise applications
+Collection of projects and experiments around:
+
+- Separation of concerns
+- Dependency inversion
+- Enterprise application architecture
+
+---
 
 ### 🛒 Shop Microservice
 
-Exploring microservice-based architecture and backend scalability
-concepts.
+Exploring:
 
-------------------------------------------------------------------------
+- Microservice architecture
+- Backend scalability
+- Distributed system concepts
 
-## 📊 GitHub Stats
+---
 
-![GitHub
-Stats](https://github-readme-stats.vercel.app/api?username=irancss&show_icons=true&theme=transparent)
+## 📊 GitHub Analytics
 
-![Top
-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irancss&layout=compact&theme=transparent)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=irancss&show_icons=true&hide_border=true&theme=transparent" />
+</p>
 
-------------------------------------------------------------------------
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irancss&layout=compact&hide_border=true&theme=transparent" />
+</p>
 
-## 📫 Connect With Me
+---
 
--   GitHub: https://github.com/irancss
+## 📫 Contact
 
-------------------------------------------------------------------------
+<p>
+<a href="https://github.com/irancss">
+<img src="https://img.shields.io/badge/GitHub-irancss-black?style=for-the-badge&logo=github" />
+</a>
+</p>
 
-⭐ Feel free to explore my repositories and follow my journey in
-software development.
+---
+
+⭐ Thanks for visiting my profile!
